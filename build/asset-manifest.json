@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERNPrac/static/css/main.7a4c7dc6.css",
+    "main.js": "/MERNPrac/static/js/main.5b437616.js",
+    "index.html": "/MERNPrac/index.html",
+    "main.7a4c7dc6.css.map": "/MERNPrac/static/css/main.7a4c7dc6.css.map",
+    "main.5b437616.js.map": "/MERNPrac/static/js/main.5b437616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4c7dc6.css",
+    "static/js/main.5b437616.js"
+  ]
+}
